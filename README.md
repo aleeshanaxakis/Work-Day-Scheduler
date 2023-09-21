@@ -26,7 +26,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Installation
-The website can be accessed via the URL:
+The website can be accessed via the URL: https://aleeshanaxakis.github.io/Work-Day-Scheduler/
 
 ## Usage
 Busy employees or students might use a work day scheduler to plan their workload and stay organised.
