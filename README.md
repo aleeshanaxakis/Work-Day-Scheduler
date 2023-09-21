@@ -3,6 +3,8 @@
 ## Description
 I modified a starter code to develop a calendar application that allows a user to save events for each hour of a typical working day.
 
+![Screenshot 2023-09-21 213744](https://github.com/aleeshanaxakis/Work-Day-Scheduler/assets/142005319/cfcf6bc9-e5ba-4f32-a706-96e71fbf6331)
+
 ## User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -24,7 +26,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Installation
-The website can be accessed via the URL:
+The website can be accessed via the URL: https://aleeshanaxakis.github.io/Work-Day-Scheduler/
 
 ## Usage
 Busy employees or students might use a work day scheduler to plan their workload and stay organised.
